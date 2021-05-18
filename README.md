@@ -1,2 +1,2 @@
 # TSF-data-science-internship
-Please read this file before reading code.
+Task 1 - Supervised Machine Learning
